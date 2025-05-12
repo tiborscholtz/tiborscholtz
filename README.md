@@ -28,10 +28,6 @@ This landing page serves as a showcase of my work, interests, and projects. Expe
 ### 🧑‍💻 **Currently learning**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
-### 🔎 **Interested in**
-
-- **Cybersecurity**
-- **Cybersecurity**: 
 
 ### 📊 Data analysis tools
 
